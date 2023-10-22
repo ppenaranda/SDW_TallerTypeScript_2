@@ -1,0 +1,17 @@
+.header {
+    padding: 18px;
+    text-align: left;
+    background: #40aeb4;
+    color: white;
+    font-size: 15px;
+  }
+
+
+  .table-container {
+    margin-top: 20px; /* Puedes ajustar el valor según tus necesidades */
+}
+button.link { 
+  background:none; 
+  border:none;
+  color: #13757e; 
+}
